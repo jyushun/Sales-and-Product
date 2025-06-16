@@ -1,0 +1,32 @@
+C:\Users\milin\OneDrive\Documents\NextEra\Sales and Product\Sales and Product\obj\Debug\net8.0\Sales and Product.csproj.AssemblyReference.cache
+C:\Users\milin\OneDrive\Documents\NextEra\Sales and Product\Sales and Product\obj\Debug\net8.0\Sales and Product.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milin\OneDrive\Documents\NextEra\Sales and Product\Sales and Product\obj\Debug\net8.0\Sales and Product.AssemblyInfoInputs.cache
+C:\Users\milin\OneDrive\Documents\NextEra\Sales and Product\Sales and Product\obj\Debug\net8.0\Sales and Product.AssemblyInfo.cs
+C:\Users\milin\OneDrive\Documents\NextEra\Sales and Product\Sales and Product\obj\Debug\net8.0\Sales and Product.csproj.CoreCompileInputs.cache
+C:\Users\milin\OneDrive\Documents\NextEra\Sales and Product\Sales and Product\obj\Debug\net8.0\Sales and Product.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\milin\OneDrive\Documents\NextEra\Sales and Product\Sales and Product\obj\Debug\net8.0\Sales and Product.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\milin\OneDrive\Documents\NextEra\Sales and Product\Sales and Product\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\milin\OneDrive\Documents\NextEra\Sales and Product\Sales and Product\bin\Debug\net8.0\appsettings.json
+C:\Users\milin\OneDrive\Documents\NextEra\Sales and Product\Sales and Product\bin\Debug\net8.0\Sales and Product.staticwebassets.endpoints.json
+C:\Users\milin\OneDrive\Documents\NextEra\Sales and Product\Sales and Product\bin\Debug\net8.0\Sales and Product.exe
+C:\Users\milin\OneDrive\Documents\NextEra\Sales and Product\Sales and Product\bin\Debug\net8.0\Sales and Product.deps.json
+C:\Users\milin\OneDrive\Documents\NextEra\Sales and Product\Sales and Product\bin\Debug\net8.0\Sales and Product.runtimeconfig.json
+C:\Users\milin\OneDrive\Documents\NextEra\Sales and Product\Sales and Product\bin\Debug\net8.0\Sales and Product.dll
+C:\Users\milin\OneDrive\Documents\NextEra\Sales and Product\Sales and Product\bin\Debug\net8.0\Sales and Product.pdb
+C:\Users\milin\OneDrive\Documents\NextEra\Sales and Product\Sales and Product\bin\Debug\net8.0\CsvHelper.dll
+C:\Users\milin\OneDrive\Documents\NextEra\Sales and Product\Sales and Product\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\milin\OneDrive\Documents\NextEra\Sales and Product\Sales and Product\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\milin\OneDrive\Documents\NextEra\Sales and Product\Sales and Product\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\milin\OneDrive\Documents\NextEra\Sales and Product\Sales and Product\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\milin\OneDrive\Documents\NextEra\Sales and Product\Sales and Product\obj\Debug\net8.0\scopedcss\bundle\Sales and Product.styles.css
+C:\Users\milin\OneDrive\Documents\NextEra\Sales and Product\Sales and Product\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\milin\OneDrive\Documents\NextEra\Sales and Product\Sales and Product\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\milin\OneDrive\Documents\NextEra\Sales and Product\Sales and Product\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\milin\OneDrive\Documents\NextEra\Sales and Product\Sales and Product\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\milin\OneDrive\Documents\NextEra\Sales and Product\Sales and Product\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\milin\OneDrive\Documents\NextEra\Sales and Product\Sales and Product\obj\Debug\net8.0\Sales an.A5E261F6.Up2Date
+C:\Users\milin\OneDrive\Documents\NextEra\Sales and Product\Sales and Product\obj\Debug\net8.0\Sales and Product.dll
+C:\Users\milin\OneDrive\Documents\NextEra\Sales and Product\Sales and Product\obj\Debug\net8.0\refint\Sales and Product.dll
+C:\Users\milin\OneDrive\Documents\NextEra\Sales and Product\Sales and Product\obj\Debug\net8.0\Sales and Product.pdb
+C:\Users\milin\OneDrive\Documents\NextEra\Sales and Product\Sales and Product\obj\Debug\net8.0\Sales and Product.genruntimeconfig.cache
+C:\Users\milin\OneDrive\Documents\NextEra\Sales and Product\Sales and Product\obj\Debug\net8.0\ref\Sales and Product.dll
